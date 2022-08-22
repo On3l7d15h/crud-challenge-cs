@@ -14,7 +14,7 @@ This is a remember of my semester number #5 in ITLA (Instituto Tecnológico de l
 
 
 
-<img title="" src="file:///C:/Users/onell/Desktop/csharp-crud/SolutionAppRetoCrud1/preview/preview1.png" alt="" width="672" data-align="left">
+<img title="" src="preview/preview1.png" alt="" width="972" data-align="left">
 
 ---
 
